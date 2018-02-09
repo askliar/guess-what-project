@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.gz
 *.jsonl
+.DS_Store
 # C extensions
 *.so
 
